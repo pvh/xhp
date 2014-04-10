@@ -1,6 +1,5 @@
 {
     "name": "hhvm/xhp",
-    "version": "1.5.0",
     "require": {
     }
 }
